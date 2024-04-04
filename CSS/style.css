@@ -7,7 +7,7 @@
 /*header*/
 header {
   width: 100%;
-  height: 75px;
+  height: 15%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -23,12 +23,12 @@ div.logo img {
   height: 65px;
 }
 nav {
-  padding: 0px 180px;
+  padding: 0px 200px;
 }
 nav li {
   display: inline-block;
   list-style: none;
-  padding: 0px 70px;
+  padding: 0px 40px;
 }
 nav li a {
   color: white;
@@ -45,7 +45,7 @@ nav li a:hover {
 /*content*/
 content {
   width: 100%;
-  height: 780px;
+  height: 60%;
   display: flex;
   justify-content: space-between;
   padding: 30px 10px;
@@ -94,7 +94,7 @@ div.aboutme button:hover {
 /*footer*/
 footer {
   width: 100%;
-  height: 450px;
+  height: 25%;
   display: flex;
   justify-content: space-between;
   align-items: center;
